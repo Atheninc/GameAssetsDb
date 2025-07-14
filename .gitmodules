@@ -1,0 +1,12 @@
+[submodule "unity"]
+	path = unity
+	url = git@github.com:Atheninc/GameAssetsDbUnity.git
+[submodule "blender"]
+	path = blender
+	url = git@github.com:Atheninc/GameAssetsDbBlender.git
+[submodule "godot"]
+	path = godot
+	url = git@github.com:Atheninc/GameAssetsDbGodot.git
+[submodule "server"]
+	path = server
+	url = git@github.com:Atheninc/GameAssetsDbServer.git
